@@ -1,0 +1,6 @@
+fav_movie: Carry
+fav_show: Boys
+fav_food: meat
+fav_season: summer
+country_to_visit: Preu
+[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ceru
