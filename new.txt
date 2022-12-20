@@ -1,0 +1,3 @@
+Name Ekaterina
+Age 33
+pets: 1[
