@@ -1,0 +1,9 @@
+  id: 123
+  title: What_where_when
+  precondition: do_it
+  steps: one_two_three
+  environment: windows_10
+  severity: trivial
+  priority: low
+  attach: video
+  
